@@ -11,6 +11,7 @@ h3{
     border: 2px dashed black;
     width: 350px;
     height: 300px;
+    margin-left: 396px;
 }
 #result_of_objects, #result_of_accuracy{
     color: yellow;
